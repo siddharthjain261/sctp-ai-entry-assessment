@@ -40,4 +40,4 @@ def formatInitials(firstName, lastName):
 print(formatName("Alice", "Tan"))
 print(formatName(" bob ", " lim "))
 print(formatInitials("Alice", "Tan"))
-print(formatInitials(" bob ", " lim "))
+print(formatInitials(" bob", " lim "))
